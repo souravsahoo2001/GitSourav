@@ -1,0 +1,10 @@
+package com.java;
+
+public class Dummy {
+
+	public static void main(String[] args) {
+		byte b = 10;
+		System.out.println(b = (byte) (b+1));
+		System.out.println(b++);
+	}
+}
