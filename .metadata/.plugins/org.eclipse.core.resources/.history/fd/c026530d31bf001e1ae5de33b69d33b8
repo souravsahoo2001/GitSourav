@@ -1,0 +1,11 @@
+package com.java;
+
+public class ArithmeticOP {
+
+	public static void main(String[] args) {
+		char ch1 = 'a';
+		char ch2 = 'b';
+		char result = 'a' + 'b';
+		System.out.println(result);
+	}
+}

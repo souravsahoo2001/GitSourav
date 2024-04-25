@@ -1,0 +1,10 @@
+package com.java;
+
+public class ArithmeticOP {
+
+	public static void main(String[] args) {
+		char ch = 'a';
+		ch++;
+		System.out.println(ch);
+	}
+}
